@@ -4,6 +4,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-20-ed1d25?style=for-the-badge" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-3.1.2-6db33f?style=for-the-badge" alt="Spring" />
+  <img src="https://img.shields.io/badge/MongoDB-6.0.8-13aa52?style=for-the-badge" alt="MongoDB" />
   <img src="https://img.shields.io/badge/gradle-8.2-02303A?style=for-the-badge" alt="Gradle" />
   <img src="https://img.shields.io/badge/license-WTFPL-D92525?style=for-the-badge" alt="License" />
   <img src="https://img.shields.io/badge/status-finished-green?style=for-the-badge" alt="Status" />
