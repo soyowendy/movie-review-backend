@@ -68,6 +68,13 @@ Please, ignore the `_class` in Objects...
 ## :electric_plug: Deploy
 To use the project we need to prepare the Database, the Back-End and optionally the [Front-End](https://github.com/soyowendy/movie-review-frontend).
 
+To start...
+
+```bash
+git clone https://github.com/soyowendy/movie-review-backend
+cd movie-review-backend
+```
+
 ### Database
 The easiest way to prepare MongoDB is through Docker, follow the command below to prepare the database (via docker):
 
