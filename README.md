@@ -13,25 +13,25 @@
 
 <img style="display: block; margin: 0 auto; border-radius: 3px;" src="banner.png" alt="Banner Project" />
 
-## :: Description
-In this project taught by FreeCodeCamp I worked on creating a film review project.
+## :page_with_curl: Description
+In this project taught by FreeCodeCamp I worked on creating a movie review project.
 
 [Click here to go to the front-end project.](https://github.com/soyowendy/movie-review-frontend)
 
-## :: Technologies
+## :computer: Technologies
  - Java
  - Gradle
  - Spring Boot
  - MongoDB
 
-## :: Endpoints
+## :pushpin: Endpoints
 | **Verb** |       **Endpoint**      |      **Return**     |
 |:--------:|:-----------------------:|:-------------------:|
 |    GET   | /api/v1/movies          | All Movies List     |
 |    GET   | /api/v1/movies/_imdbId_ | Single Movie Object |
 |   POST   | /api/v1/reviews         | Review Object       |
 
-## :: Objects
+## :id: Objects
 Please, ignore the `_class` in Objects...
 
 ### Id Object
@@ -65,7 +65,7 @@ Please, ignore the `_class` in Objects...
 }
 ```
 
-## :: Deploy
+## :electric_plug: Deploy
 To use the project we need to prepare the Database, the Back-End and optionally the [Front-End](https://github.com/soyowendy/movie-review-frontend).
 
 ### Database
@@ -89,7 +89,7 @@ MONGO_PASSWORD="mongo" # Password Mongo
 MONGO_CLUSTER="localhost:27017" # The URI to Mongo
 ```
 
-> When starting the backend, Spring itself will populate the database with some movies.
+> When starting the back-end, Spring itself will populate the database with some movies.
 
 So to initialize Spring, go to root project folder and use the following command:
 
@@ -100,7 +100,7 @@ So to initialize Spring, go to root project folder and use the following command
 ### Front-End
 [CHECK THE FRONT-END REPOSITORY](https://github.com/soyowendy/movie-review-frontend)
 
-## :: Testing
+## :heavy_check_mark: Testing
 You can test the requests using Curl, follow the examples below:
 
 ```bash
