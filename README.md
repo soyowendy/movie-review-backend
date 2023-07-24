@@ -35,15 +35,15 @@ In this project taught by FreeCodeCamp I worked on creating a movie review proje
 Please, ignore the `_class` in Objects...
 
 ### Id Object
-```json
+```jsonc
 {
-	"timestamp": timestamp,
+	"timestamp": Timestamp,
 	"date": String
 }
 ```
 
 ### Movie Object
-```json
+```jsonc
 {
 	"id": Object, /* Id Object */
 	"imdbId": String,
@@ -58,7 +58,7 @@ Please, ignore the `_class` in Objects...
 ```
 
 ### Review Object
-```json
+```jsonc
 {
 	"id": Object, /* Id Object */
 	"body": String
